@@ -25,6 +25,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "helmet": "^4.6.0",
-    "ts-node": "^10.4.0"
+    "ts-node": "^10.4.0",
+    "typeorm": "^0.2.41"
   }
 }
